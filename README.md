@@ -1,4 +1,4 @@
-## Hi there 👋
+I type things into the thing and things happen
 
 <!--
 **elijw/elijw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
